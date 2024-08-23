@@ -32,8 +32,9 @@
       "dark": "Qaranlıq"
     },
     "language": {
-      "en": "İngilis dili",
-      "tr": "türk"
+      "en": "İngiliscə",
+      "tr": "Türkcə",
+      "az": "Azərbaycanca"
     },
     "blocks": [
       {
@@ -225,8 +226,8 @@
     "reset": "Sıfırlayın",
     "add": "əlavə et",
     "addNew": "Yeni əlavə et",
-    "darkMode": "Qaranlıq rejim",
-    "lightMode": "İşıq rejimi",
+    "darkMode": "Qaranlı rejim",
+    "lightMode": "İşıqlı rejim",
     "removeAll": "Hamısını Sil",
     "change": "Dəyişmək",
     "enlarge": "Böyütmək",
@@ -827,7 +828,7 @@
       "title": "Haqqında",
       "noBio": "Bio təqdim edilməyib.",
       "labels": {
-        "occupation": "İşğal",
+        "occupation": "İş",
         "gender": "Cins",
         "location": "Məkan",
         "birthday": "Ad günü",
@@ -968,7 +969,7 @@
       }
     },
     "emptyErrorState": {
-      "title": "Bura sakitdir...",
+      "title": "Bura sakitlikdir...",
       "message": "Göstərmək üçün emojilər yoxdur. "
     }
   },
@@ -1061,14 +1062,14 @@
       "linkText": "dəstək serverimiz"
     },
     "fields": {
-      "name": "ad",
+      "name": "Ad",
       "uploaded": "Yükləndi",
       "downloads": "Yükləmələr",
       "animated": "Animasiya",
       "categories": "Kateqoriyalar",
       "publisher": "Nəşriyyatçı",
       "yes": "Bəli",
-      "no": "yox"
+      "no": "Xeyr"
     },
     "similarEmojis": {
       "title": "Oxşar emojilər",
